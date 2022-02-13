@@ -19,6 +19,7 @@ public class Calculator {
         return a/b;
     }
 
+    //Method for subtracting
     public int sub (int a, int b){
         return a-b;
     }
