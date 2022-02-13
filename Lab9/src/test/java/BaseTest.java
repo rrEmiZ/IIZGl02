@@ -10,7 +10,7 @@ import org.junit.jupiter.api.Test;
 
 /**
  *
- * @author jakub
+ * @author jakub jonca
  */
 
 public class BaseTest {
@@ -20,6 +20,8 @@ public class BaseTest {
         int a = 1;
         int b = 2;
         int c = 3;
+        
+        
         
         int result = a+b;
         
